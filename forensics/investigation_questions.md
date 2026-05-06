@@ -8,7 +8,7 @@ Use evidence from `server_log.txt`, `email_header.txt`, and `file_metadata.txt` 
 
 ### Section A — Server Log Analysis
 
-**Q1.** What is the username of the primary suspect? What evidence from the server log supports this?
+**Q1.** What is the username of the primary suspect? What evidence from the server log supports this?- 
 
 **Q2.** At what time did the suspect's activity become suspicious? What specifically changed between their daytime and nighttime sessions? (Look at IP addresses AND files accessed.)
 
