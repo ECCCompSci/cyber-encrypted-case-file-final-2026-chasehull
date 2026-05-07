@@ -19,8 +19,4 @@ Message Body: (encrypted attachment only — see crypto folder)
 
 --- END EMAIL HEADER ---
 
-NOTES FOR ANALYST:
-- The X-Originating-IP tells you where the email was sent FROM.
-- The recipient used ProtonMail — an encrypted email service often used for anonymity.
-- The subject line is intentionally blank.
-- The timestamp is critical — compare it to the server log.
+
